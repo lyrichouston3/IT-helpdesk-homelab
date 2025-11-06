@@ -10,6 +10,7 @@ The user was unable to join a computer to the domain.
    *Screenshot showing the ticket being created in the Servicenow ticketing system.*
 
    2. Attempted domain join:
-   ![Screenshot showing the domain join failure](01_domain_join_fail.PNG)
+      
+   ![Screenshot showing the domain join failure](01_domain_join_fail.png)
    *Screenshot showing the error message when trying to join the domain.*
 
