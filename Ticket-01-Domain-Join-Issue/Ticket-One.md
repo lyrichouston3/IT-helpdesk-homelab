@@ -20,7 +20,7 @@ The user was unable to join a computer to the domain.
 
 4. Identify DNS Issue:
    ![Screenshot showing incorrect DNS IP address](03_dns_wrong.png)
-   *Screenshot showing the second troubleshooting step: identifying that the DNS IP address was incorrect.*
+   *Screenshot showing the second troubleshooting step: identifying that the DNS IP address was incorrect. Needs to have the DC IP address as the preffered DNS*
 
 6. Ping DNS Server:
    ![Screenshot showing a successful ping to the DNS server](04_ping_success.png)
