@@ -23,7 +23,7 @@ The user was unable to join a computer to the domain.
    4. Identify DNS Issue:
       
    ![Screenshot showing incorrect DNS IP address](03_dns_wrong.png)
-   *Screenshot identifying that the DNS IP address was incorrect. Needed to have the DC IP address as the preffered DNS*
+   *Screenshot identifying that the DNS IP address was incorrect. Preferred DNS Address needed to be changed to the internal DNS server IP (Domain Controller)*
 
    5. Ping DNS Server:
       
