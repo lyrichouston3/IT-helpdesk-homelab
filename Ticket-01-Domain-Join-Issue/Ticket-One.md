@@ -32,11 +32,13 @@ The user was unable to join a computer to the domain.
    *Screenshot showing that after correcting the DNS IP to point to the internal DNS server (hosted on the DC), the computer successfully resolved the Domain name.*
 
    7. Create Active Directory User:
+      
    ![Screenshot showing the creation of a new Active Directory user](05_create_user.png)
    *Screenshot showing the step where a new Active Directory user was created for the computer.*
 
 
-   8. Join Computer to Domain:
+   9. Join Computer to Domain:
+       
    ![Screenshot showing the computer successfully joined the domain](06_domain_join_success.png)
    *Screenshot showing that the computer successfully joined the domain. The computer name was updated from "Lyric" to "Harlym Payton" during the AD user creation.*
 
