@@ -1,6 +1,6 @@
 # IT Helpdesk Lab Portfolio
 
-This repository showcases my work completing helpdesk tickets and troubleshooting issues in a lab environment.  
+This repository showcases my work creating mock helpdesk tickets and troubleshooting issues in a lab environment.  
 
 ## Tickets Completed
 
