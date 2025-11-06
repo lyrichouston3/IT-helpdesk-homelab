@@ -29,7 +29,7 @@ The user was unable to join a computer to the domain.
       
    ![Screenshot showing a successful ping to the DNS server](04_ping_success.png)
 
-   *Screenshot showing that after correcting the DNS IP to the internal DNS server, the computer successfully resolved the Domain name.*
+   *Screenshot showing that after correcting the DNS IP to point to the internal DNS server (hosted on the DC), the computer successfully resolved the Domain name.*
 
 
 
