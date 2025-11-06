@@ -12,6 +12,7 @@ The user was unable to join a computer to the domain.
    2. Attempted domain join:
       
    ![Screenshot showing the domain join failure](01_domain_join_fail.png)
+   
    *Screenshot showing the error message when trying to join the domain.*
 
    3. Ping Server Test:
