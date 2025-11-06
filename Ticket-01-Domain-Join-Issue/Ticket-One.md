@@ -26,6 +26,7 @@ The user was unable to join a computer to the domain.
    *Screenshot showing the second troubleshooting step: identifying that the DNS IP address was incorrect. Needs to have the DC IP address as the preffered DNS*
 
    5. Ping DNS Server:
+      
    ![Screenshot showing a successful ping to the DNS server](04_ping_success.png)
 
    *Screenshot showing that after correcting the DNS IP to the internal DNS server, the computer successfully resolved the Domain name.*
