@@ -44,6 +44,20 @@ The user was unable to join a computer to the domain.
    
    *Screenshot showing that the computer successfully joined the domain. The computer name was updated from "Lyric" to "Harlym Payton" during the AD user creation.*
 
+   10. Domain Login on Client:
+       
+   ![Screenshot showing the client successfully logging into the domain](07_domain_login.png)
+   *Screenshot showing that after joining the domain, the client successfully logged into with their domain account.*
+
+   12. Close Ticket:
+
+   ![Screenshot showing the helpdesk ticket being closed](close_ticket.png)
+   *Screenshot showing the final step of the process: closing the helpdesk ticket after the issue was resolved.*
+
+
+
+   
+
 
 
 
