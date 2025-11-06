@@ -18,12 +18,12 @@ The user was unable to join a computer to the domain.
    3. Ping Server Test:
       
    ![Screenshot showing a successful ping to the server](02_ping_success.png)
-   *Screenshot showing the first troubleshooting step: client successfully pinging the server to verify network connectivity.*
+   *Screenshot showing the client successfully pinging the server to verify network connectivity.*
 
    4. Identify DNS Issue:
       
    ![Screenshot showing incorrect DNS IP address](03_dns_wrong.png)
-   *Screenshot showing the second troubleshooting step: identifying that the DNS IP address was incorrect. Needs to have the DC IP address as the preffered DNS*
+   *Screenshot identifying that the DNS IP address was incorrect. Needed to have the DC IP address as the preffered DNS*
 
    5. Ping DNS Server:
       
