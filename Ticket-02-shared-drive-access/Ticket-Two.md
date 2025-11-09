@@ -6,7 +6,7 @@ The user reported that the G: shared drive didn't appear in the left panel in Fi
 ## Steps Taken
   1. Ticket creation:
    
-   ![Ticket Creation](ticket_initiate2.png)
+   ![Ticket Creation](initiate_ticket2.png)
    *Screenshot showing the ticket being created in the Servicenow ticketing system.*
 
 
