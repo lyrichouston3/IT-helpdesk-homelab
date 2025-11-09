@@ -27,7 +27,7 @@ The user reported that the G: shared drive didn't appear in the left panel in Fi
 6. **Verify G: Drive Appears in File Explorer**
    
    ![G: Drive Visible](userhasaccesstodrive.png)
-   ![files viewable](image_2025-11-08_222447204.png)
+   ![files viewable](user_success2.png)
    
    *Screenshot showing that after being mapped, the G: drive now appears in the left panel of File Explorer for the user, and they have access to the files.*
 
