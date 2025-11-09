@@ -19,11 +19,12 @@ The user reported that the G: shared drive didn't appear in the left panel in Fi
    ![Network Path Access](user_access_path_03.png)  
    *Screenshot showing the user successfully accessing the G: drive through the network path, even though it is not visible in the left panel of File Explorer.*
 
-4. **Map Network Drive**  
+4. **Map Network Drive**
+   
    ![Map Network Drive](map_networkdrive.png)  
    *Mapped the G: shared drive on the user’s workstation using the network path.*
 
-5. **Verify G: Drive Appears in File Explorer**
+6. **Verify G: Drive Appears in File Explorer**
    
    ![G: Drive Visible](userhasaccesstodrive.png)
    ![files viewable](image_2025-11-08_222447204.png)
