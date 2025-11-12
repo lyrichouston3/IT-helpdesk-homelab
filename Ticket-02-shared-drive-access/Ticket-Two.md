@@ -34,7 +34,7 @@ The user reported that the G: shared drive didn't appear in the left panel in Fi
 7. **Close Ticket:**
 
    ![Screenshot showing the helpdesk ticket being closed](close_ticket2.png)
-   *Screenshot showing the closing the helpdesk ticket is closed after the issue was resolved.*
+   *Screenshot showing the helpdesk ticket is closed after the issue was resolved.*
 
 
 
