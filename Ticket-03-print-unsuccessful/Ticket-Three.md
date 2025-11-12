@@ -34,7 +34,7 @@ User reports that print jobs do not start. Printer shows as "Idle" in Printers &
    *Screenshot showing the user’s chosen document being sent to the printer and successfully processing through the print queue.*
 
    ![Print Job Complete](print_success2.png)  
-   *Screenshot showing the print job completed successfully, confirming the printer is functioning with the correct driver.*
+   
 
    ![Ticket Closed](ticket_closed.png)  
    *Screenshot showing the ServiceNow ticket closed after the issue was resolved.*
