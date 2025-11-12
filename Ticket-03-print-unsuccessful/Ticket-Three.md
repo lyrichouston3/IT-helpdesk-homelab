@@ -19,5 +19,15 @@ User reports that print jobs do not start. Printer shows as "Idle" in Printers &
 
    ![Generic Driver Selected](driver_check.png)  
    *Screenshot showing the printer setup with the generic driver selected.*
+   
+4. **Install & Select Correct Driver:**
+
+   ![Installing Canon Driver](driver_install.png)  
+   *Screenshot showing the Canon G6020 series driver being installed on the workstation.*
+
+   ![Canon Driver Selected](driver_select_canon.png)  
+   *Screenshot showing the Canon driver being selected after installation, ready to print the document.*
+
+
 
 
