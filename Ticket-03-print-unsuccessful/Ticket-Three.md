@@ -15,3 +15,9 @@ User reports that print jobs do not start. Printer shows as "Idle" in Printers &
    ![Printer in Devices List](printer_list.png)  
    *Screenshot showing the printer listed in Windows Settings under Printers & Scanners with status "Idle".*
 
+3.  **Incorrect Driver Selected (Before Change):**
+
+   ![Generic Driver Selected](driver_check.png)  
+   *Screenshot showing the printer setup with the generic driver selected.*
+
+
