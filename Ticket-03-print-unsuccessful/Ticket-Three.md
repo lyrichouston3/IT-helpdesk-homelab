@@ -28,12 +28,12 @@ User reports that print jobs do not start. Printer shows as "Idle" in Printers &
    ![Canon Driver Selected](driver_select_canon.png)  
    *Screenshot showing the Canon driver being selected after installation, ready to print the document.*
 
-   5. **Send Document & Close Ticket:**
+ 5. **Send Document & Close Ticket:**
 
-   ![Document Printing](Print_success.png)  
+   ![Document Printing](print_success.png)  
    *Screenshot showing the user’s chosen document being sent to the printer and successfully processing through the print queue.*
 
-   ![Print Job Complete](Print_success2.png)  
+   ![Print Job Complete](print_success2.png)  
    *Screenshot showing the print job completed successfully, confirming the printer is functioning with the correct driver.*
 
    ![Ticket Closed](ticket_closed.png)  
