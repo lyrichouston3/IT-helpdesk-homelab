@@ -7,5 +7,5 @@ User reports that print jobs do not start. Printer shows as "Idle" in Printers &
 
 1. **Ticket Creation:**
 
-   ![Ticket Creation](screenshot_ticket_initial.png)  
+   ![Ticket Creation](initiate_ticket3.png)  
    *Screenshot showing the ticket being created in the ServiceNow ticketing system.*
